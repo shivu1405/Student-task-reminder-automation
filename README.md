@@ -44,7 +44,7 @@ Graphical or web-based interface
 Cloud-based task storage
 
 # How to Run
-1, Clone the repository
+1. Clone the repository
 
 2. Ensure Python is installed 
 
@@ -59,6 +59,7 @@ Through this project, I learned how to identify a real-world problem, design a l
 
 # Sample Ouput:
 <img width="1470" height="703" alt="image" src="https://github.com/user-attachments/assets/44004046-a794-4f66-ad70-9e1f8e51cdfd" />
+
 
 
 
