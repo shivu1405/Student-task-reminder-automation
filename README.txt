@@ -50,5 +50,3 @@ Through this project, I learned how to identify a real-world problem, design a l
 
 # Sample Output
 
-
-https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/admin/Pictures/Screenshots/Screenshot%202026-01-05%20212300.png?version%3D1767628821892
