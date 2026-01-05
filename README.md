@@ -1,4 +1,3 @@
-
 # Student Task & Deadline Reminder Automation
 
 # Problem
@@ -13,24 +12,24 @@ The focus of this project was to create a clear, usable, and practical automatio
 
 # Key Features
 
-Add, update, and delete academic tasks
+- Add, update, and delete academic tasks
 
-Automatically categorize tasks based on deadlines
+- Automatically categorize tasks based on deadlines
 
-Generate a task summary (overdue, due soon, later)
+- Generate a task summary (overdue, due soon, later)
 
-Periodic reminder alerts to improve task awareness
+- Periodic reminder alerts to improve task awareness
 
-Simple and user-friendly command-line interface
+- Simple and user-friendly command-line interface
 
 
 # Technologies Used
 
-Python
+- Python
 
-datetime module
+- datetime module
 
-File handling for task storage
+- File handling for task storage
 
 # Impact
 
@@ -44,11 +43,22 @@ Graphical or web-based interface
 
 Cloud-based task storage
 
+# How to Run
+1, Clone the repository
+
+2. Ensure Python is installed 
+
+3. Run the script using python task_reminder.py
+
+4. Follow the on-screen menu to manage tasks
+
 # Learning Outcome
 
 Through this project, I learned how to identify a real-world problem, design a logical solution, and implement it using Python automation. The project also helped me understand the importance of usability, clarity, and incremental improvement in software development.
 
-# Sample Output
+
+# Sample Ouput:
+<img width="1470" height="703" alt="image" src="https://github.com/user-attachments/assets/44004046-a794-4f66-ad70-9e1f8e51cdfd" />
 
 
 
